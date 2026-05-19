@@ -23,10 +23,6 @@
 
 Dott is a stack-based human-readable serialization format. Tokens are pushed onto a persistent stack using `<>` and retrieved using dot-depth navigation with `>`. Every character is encoded as a fixed two-digit code -- no delimiters needed inside token bodies, no ambiguity in the parser.
 
-```
-"Hell Hello Mr Claude I'm Kiso"
-```
-
 ---
 
 ## Highlights
