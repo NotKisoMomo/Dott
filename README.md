@@ -25,9 +25,6 @@ Dott is a stack-based human-readable serialization format. Tokens are pushed ont
 
 ```
 "Hell Hello Mr Claude I'm Kiso"
-
-<^080512 1215><^13182315><^031201210405><^09461309><^11091915>
->.....−138>.....38>....38>...38>..38>.
 ```
 
 ---
